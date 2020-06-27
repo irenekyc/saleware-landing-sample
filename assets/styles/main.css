@@ -232,6 +232,9 @@ p {
   .heading-text-xl {
     font-size: 1.5rem;
   }
+  .sm-hide {
+    display: none;
+  }
 }
 
 @media (min-width: 769px) {
